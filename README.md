@@ -75,3 +75,7 @@
  * ============================================================
  *   (put a 5V->3.3V divider on ECHO: 1k in series, 2k to GND)
  * ============================================================
+## Contributors
+- Abdullah Khan — [@abdullahkhan-07](https://github.com/abdullahkhan-07)
+- Shehzeen Rizwan — [@rizwanshehzeen](https://github.com/rizwanshehzeen)
+- Areeba Zehra — [@areebazehra-290](https://github.com/areebazehra-290)
